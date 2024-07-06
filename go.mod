@@ -1,3 +1,3 @@
-module github.com/drswork/image
+module github.com/rmamba/image
 
 go 1.13
