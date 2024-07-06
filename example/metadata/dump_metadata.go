@@ -9,10 +9,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/gif"
-	"github.com/drswork/image/jpeg"
-	"github.com/drswork/image/png"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/gif"
+	"github.com/rmamba/image/jpeg"
+	"github.com/rmamba/image/png"
 )
 
 func main() {

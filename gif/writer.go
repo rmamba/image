@@ -11,10 +11,10 @@ import (
 	"errors"
 	"io"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/color/palette"
-	"github.com/drswork/image/draw"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/color/palette"
+	"github.com/rmamba/image/draw"
 )
 
 // Graphic control extension fields.

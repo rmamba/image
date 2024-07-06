@@ -3,7 +3,7 @@
 package imageutil
 
 import (
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 // DrawYCbCr draws the YCbCr source image on the RGBA destination image with

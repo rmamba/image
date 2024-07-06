@@ -4,8 +4,8 @@ package xmp
 import (
 	"context"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/metadata"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/metadata"
 )
 
 func init() {

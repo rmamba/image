@@ -13,9 +13,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/png"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/png"
 )
 
 // zigzag maps from the natural ordering to the zig-zag ordering. For example,

@@ -16,9 +16,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/color/palette"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/color/palette"
 )
 
 // header, palette and trailer are parts of a valid 2x1 GIF image.

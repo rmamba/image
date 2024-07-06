@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 func main() {

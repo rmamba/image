@@ -5,10 +5,11 @@
 package draw
 
 import (
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
 	"reflect"
 	"testing"
+
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
 )
 
 const (

@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
+//go:build gofuzz
 // +build gofuzz
 
 package png
@@ -11,7 +12,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 func Fuzz(data []byte) int {

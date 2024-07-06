@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 var xmpDecoder func(context.Context, string, ...image.ReadOption) (*XMP, error)

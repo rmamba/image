@@ -7,7 +7,7 @@ package jpeg
 import (
 	"context"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 // makeImg allocates and initializes the destination image.

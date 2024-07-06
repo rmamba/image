@@ -5,8 +5,9 @@
 package draw
 
 import (
-	"github.com/drswork/image"
 	"testing"
+
+	"github.com/rmamba/image"
 )
 
 type clipTest struct {

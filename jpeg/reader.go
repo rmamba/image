@@ -12,9 +12,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/internal/imageutil"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/internal/imageutil"
 )
 
 // TODO(nigeltao): fix up the doc comment style so that sentences start with

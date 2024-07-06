@@ -5,8 +5,9 @@
 package image
 
 import (
-	"github.com/drswork/image/color"
 	"strconv"
+
+	"github.com/rmamba/image/color"
 )
 
 // A Point is an X, Y coordinate pair. The axes increase right and down.

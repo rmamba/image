@@ -13,10 +13,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/color/palette"
-	_ "github.com/drswork/image/png"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/color/palette"
+	_ "github.com/rmamba/image/png"
 )
 
 func readImg(filename string) (image.Image, error) {

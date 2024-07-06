@@ -11,12 +11,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
 
-	_ "github.com/drswork/image/gif"
-	_ "github.com/drswork/image/jpeg"
-	_ "github.com/drswork/image/png"
+	_ "github.com/rmamba/image/gif"
+	_ "github.com/rmamba/image/jpeg"
+	_ "github.com/rmamba/image/png"
 )
 
 type imageTest struct {

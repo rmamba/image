@@ -5,8 +5,9 @@
 package image
 
 import (
-	"github.com/drswork/image/color"
 	"testing"
+
+	"github.com/rmamba/image/color"
 )
 
 type image interface {

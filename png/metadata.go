@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/metadata"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/metadata"
 )
 
 // Metadata holds the metadata for a PNG image.

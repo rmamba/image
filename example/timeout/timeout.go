@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 func main() {

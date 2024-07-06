@@ -16,8 +16,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
 )
 
 // TestDecodeProgressive tests that decoding the baseline and progressive

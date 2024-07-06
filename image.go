@@ -13,7 +13,9 @@
 // image format requires the prior registration of a decoder function.
 // Registration is typically automatic as a side effect of initializing that
 // format's package so that, to decode a PNG image, it suffices to have
+//
 //	import _ "image/png"
+//
 // in a program's main package. The _ means to import a package purely for its
 // initialization side effects.
 //
@@ -22,7 +24,7 @@
 package image
 
 import (
-	"github.com/drswork/image/color"
+	"github.com/rmamba/image/color"
 )
 
 // Config holds an image's color model and dimensions.

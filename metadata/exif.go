@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 var exifDecoder func(context.Context, []byte, bool, ...image.ReadOption) (*EXIF, error)

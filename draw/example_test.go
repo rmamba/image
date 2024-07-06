@@ -6,10 +6,11 @@ package draw_test
 
 import (
 	"fmt"
-	"github.com/drswork/image"
-	"github.com/drswork/image/color"
-	"github.com/drswork/image/draw"
 	"math"
+
+	"github.com/rmamba/image"
+	"github.com/rmamba/image/color"
+	"github.com/rmamba/image/draw"
 )
 
 func ExampleDrawer_floydSteinberg() {

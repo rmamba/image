@@ -6,7 +6,7 @@
 
 package palette
 
-import "github.com/drswork/image/color"
+import "github.com/rmamba/image/color"
 
 // Plan9 is a 256-color palette that partitions the 24-bit RGB space
 // into 4×4×4 subdivision, with 4 shades in each subcube. Compared to the

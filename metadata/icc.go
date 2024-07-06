@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/drswork/image"
+	"github.com/rmamba/image"
 )
 
 var iccDecoder func(context.Context, []byte, ...image.ReadOption) (*ICC, error)
